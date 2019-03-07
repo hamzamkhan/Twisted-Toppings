@@ -1,8 +1,8 @@
 <?php
 
 $servername = "localhost";
-$username = "K152832";
-$password = "lumosity1";
+$username = "[your username]";
+$password = "[your password]";
 $dbname = "twisted_toppings";
 
 //Create Connection
